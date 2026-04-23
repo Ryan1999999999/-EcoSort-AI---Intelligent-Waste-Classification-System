@@ -1,0 +1,15 @@
+torch
+torchvision
+torchaudio
+timm
+albumentations
+mlflow
+onnx
+onnxruntime
+onnxscript
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+Pillow
